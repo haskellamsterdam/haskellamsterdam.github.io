@@ -8,3 +8,20 @@ description: Official website for Haskell.amsterdam meetup
 <a href="https://github.com/haskellamsterdam" title="GitHub"><img src="/assets/github.png" alt="github logo" width="20%"/></a>
 <a href="https://twitter.com/haskellams" title="Twitter"><img src="/assets/twitter.png" alt="twitter logo" width="20%"/></a>
 <a href="https://www.youtube.com/channel/UCLlcSoC_ZbNCaxqFKgZtsAw" title="YouTube channel"><img src="/assets/youtube.png" alt="twitter logo" width="20%"/></a>
+
+<hr/>
+
+<h3>Latest from blog</h3>
+
+<ul>
+  {% for post in site.posts limit:3 %}
+    <li>
+      <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+      {{ post.excerpt }}
+      <a href="{{ post.url }}">Read more...</a>
+    </li>
+  {% endfor %}
+</ul>
+
+Go to <a href="{{ post.url }}">blog</a>
+

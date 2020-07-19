@@ -1,0 +1,12 @@
+---
+---
+
+/* apply theme */
+@import "{{ site.theme }}";
+
+/* then customize */
+
+li {
+ list-style-type: none !important;
+}
+
