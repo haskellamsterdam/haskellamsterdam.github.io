@@ -3,7 +3,7 @@ layout: post
 author: Haskell Amsterdam
 ---
 
-Starting this August Haskell.amsterdam will be organizing a four-month-long study group of <a href="https://www.amazon.com/Practical-Haskell-World-Guide-Programming/dp/1484244796">Practical Haskell: A Real World Guide to Programming</a> by Alejandro Serrano Mena.
+Starting this August Haskell.amsterdam will be organizing a four-month-long study group of <a href="https://www.amazon.com/Practical-Haskell-World-Guide-Programming/dp/1484244796">Practical Haskell: A Real World Guide to Programming</a> by Alejandro Serrano Mena (from 47 Degrees Academy).
 
 The study group will be in collaboration with Alejandro, the author of the book. This means we will have the opportunity to ask him questions as we go through the book.
 
