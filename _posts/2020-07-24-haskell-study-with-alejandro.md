@@ -3,7 +3,7 @@ layout: post
 author: Haskell Amsterdam
 ---
 
-Starting this August Haskell.amsterdam will be organizing a four-month-long study group of [Practical Haskell: A Real World Guide to Programming](https://www.amazon.com/Practical-Haskell-World-Guide-Programming/dp/1484244796) by Alejandro Serrano Mena.
+Starting this August Haskell.amsterdam will be organizing a four-month-long study group of <a href="https://www.amazon.com/Practical-Haskell-World-Guide-Programming/dp/1484244796">Practical Haskell: A Real World Guide to Programming</a> by Alejandro Serrano Mena.
 
 The study group will be in collaboration with Alejandro, the author of the book. This means we will have the opportunity to direct questions at him.
 
@@ -31,7 +31,7 @@ Read the chapters, and if you have any questions, discuss it with other people o
 </p>
 
 <p><strong>Submit unresolved questions for Alejandro</strong><br/>
-If there are any unresolved questions, then submit it to Alejandro using this [form]()
+If there are any unresolved questions, these would be submit it to Alejandro.
 </p>
 
 <p><strong>Join Zoom sessions with Alejandro</strong><br/>
