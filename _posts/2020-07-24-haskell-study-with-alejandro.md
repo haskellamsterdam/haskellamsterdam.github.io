@@ -12,7 +12,7 @@ This also means the book Practical Haskell: A Real World Guide to Programming wi
 <h3>How it works</h3>
 <p><strong>Show interest</strong><br/>
 
-If you want to join the study group then indicate by filling the [form](http://eepurl.com/g_auIH). Registration will b open till July 30th.
+If you want to join the study group then indicate by filling the <a href="http://eepurl.com/g_auIH">signup form</a>. Registration will be open till July 30th.
 
 </p>
 
@@ -47,6 +47,6 @@ Alejandro will also be part of the Discord channel, but he won’t be available 
 <ul>
 <li>Alejandro Serrano Mena</li>
 <!-- <li>www.offerzen.com</li> -->
-<li>www.schooloffp.co</li>
+<li href="https://schooloffp.co">www.schooloffp.co</li>
 
 </ul>
