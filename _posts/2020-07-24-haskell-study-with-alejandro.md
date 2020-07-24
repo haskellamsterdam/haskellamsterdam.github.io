@@ -26,7 +26,7 @@ Once you are accepted to the study group, you will be added to Discord channel w
 
 </p>
 
-<p><strong>Study and discussion</strong></br>
+<p><strong>Study and discussion</strong><br/>
 Read the chapters, and if you have any questions, discuss it with other people on Discord. Hopefully, with this, we will be able to help each other through the book
 </p>
 
