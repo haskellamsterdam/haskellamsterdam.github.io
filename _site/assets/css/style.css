@@ -186,3 +186,5 @@ footer a:hover { color: #444; }
 /* Mobile Portrait Size to Mobile Landscape Size (devices and browsers) */
 /* then customize */
 li { list-style-type: none !important; }
+
+body, #container { background: none !important; }
