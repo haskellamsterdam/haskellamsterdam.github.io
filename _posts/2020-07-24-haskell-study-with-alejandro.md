@@ -5,9 +5,9 @@ author: Haskell Amsterdam
 
 Starting this August Haskell.amsterdam will be organizing a four-month-long study group of <a href="https://www.amazon.com/Practical-Haskell-World-Guide-Programming/dp/1484244796">Practical Haskell: A Real World Guide to Programming</a> by Alejandro Serrano Mena.
 
-The study group will be in collaboration with Alejandro, the author of the book. This means we will have the opportunity to direct questions at him.
+The study group will be in collaboration with Alejandro, the author of the book. This means we will have the opportunity to ask him questions as we go through the book.
 
-This also means the book Practical Haskell: A Real World Guide to Programming will be available at a discount for those joining the study group
+Also thanks to Alejandro, the book will be available at a discounted price for those joining the study group.
 
 <h3>How it works</h3>
 <p><strong>Show interest</strong><br/>
@@ -16,11 +16,11 @@ If you want to join the study group then indicate by filling the <a href="http:/
 
 </p>
 
-<p><strong>Recieve voucher</strong><br/>
+<p><strong>Receive voucher</strong><br/>
 Receive the voucher to get the book: Practical Haskell: A Real World Guide to Programming at a discounted price.
 </p>
 
-<p><strong> Recieve Discord invitation</strong><br/>
+<p><strong> Receive Discord invitation</strong><br/>
 
 Once you are accepted to the study group, you will be added to Discord channel which will be used throughout the study group
 
@@ -31,7 +31,7 @@ Read the chapters, and if you have any questions, discuss it with other people o
 </p>
 
 <p><strong>Submit unresolved questions for Alejandro</strong><br/>
-If there are any unresolved questions, these would be submit it to Alejandro.
+If there are any unresolved questions, these would be submitted to Alejandro.
 </p>
 
 <p><strong>Join Zoom sessions with Alejandro</strong><br/>
