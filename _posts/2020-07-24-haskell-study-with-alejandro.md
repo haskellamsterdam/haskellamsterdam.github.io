@@ -12,7 +12,7 @@ Also thanks to Alejandro, the book will be available at a discounted price for t
 <h3>How it works</h3>
 <p><strong>Show interest</strong><br/>
 
-If you want to join the study group then indicate by filling the <a href="http://eepurl.com/g_auIH">signup form</a>. Registration will be open till ~~Thursday July 30th~~. Friday, August 7th (a week after the kickoff).
+If you want to join the study group then indicate by filling the <a href="http://eepurl.com/g_auIH">signup form</a>. Registration will be open till <strike>Thursday July 30th</strike>. Friday, August 7th (a week after the kickoff).
 
 </p>
 
