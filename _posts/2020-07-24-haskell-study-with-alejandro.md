@@ -46,7 +46,7 @@ Alejandro will also be part of the Discord channel, but he won’t be available 
 
 <ul>
 <li>Alejandro Serrano Mena</li>
-<!-- <li>www.offerzen.com</li> -->
+<li><a href="https://www.offerzen.com">www.offerzen.com</a></li>
 <li><a href="https://schooloffp.co">www.schooloffp.co</a></li>
 
 </ul>
